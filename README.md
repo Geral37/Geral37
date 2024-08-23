@@ -5,9 +5,7 @@ Hi! Mi name is Geraldyn. I’m a student of industrial civil engineering at the 
 <img width="25%" align="right" alt="Github" src="1841953063.png" />
 
 - 🔭 I'm interested in Data Science
-- 🌱 I'm currently learning:
-
-&ensp;![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat-square&logo=JavaScript) &ensp;![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=R)
+- 🌱 I'm currently learning: &ensp;![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat-square&logo=JavaScript) &ensp;![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=R)
 
 - 👯 We can connect on [Chess.com](https://www.chess.com/member/Fantasmita205)♟ to play some games.
 
